@@ -33,5 +33,19 @@
     "title": "Apple Watch",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
     "price": 150
+  },
+  {
+    "id": 10,
+    "productImg": "./images/(2).jpg",
+    "title": "Apple Watch Pro",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+    "price": "200"
+  },
+  {
+    "productImg": "images/bac.jpg",
+    "title": "fff4",
+    "price": "334",
+    "description": "xxxx",
+    "id": 11
   }
 ]
